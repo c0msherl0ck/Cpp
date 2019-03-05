@@ -2,7 +2,7 @@
 sender(victim)의 arp table을 변조하라.
 
 # Usage
-send_arp <interface> <sender ip> <target ip>
+send_arp <interface> <sender ip> <target ip><br>
 ex : send_arp wlan0 192.168.10.2 192.168.10.1
 
 sender ip는 victim ip라고도 함.
